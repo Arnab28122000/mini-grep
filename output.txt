@@ -1,0 +1,4 @@
+Searching for and in poem.txt
+["target/debug/minigrep", "and", "poem.txt"]
+And one for the dame,
+And one for the little boy
